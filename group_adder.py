@@ -2,6 +2,7 @@
 Bu dastur guruh va kanallardan obunachi oluvchi dastur 💻
 Dasturchi @java_strong
 Kod yozilgan sana 26.03.2025
+Dastur 100% xavfsiz. String session olinmaydi!
 Manba @windowsuzprogrammaa
 Created by https://t.me/java_strong
 Bizning botlar: 
