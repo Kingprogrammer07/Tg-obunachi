@@ -1,0 +1,25 @@
+# Session fayllar
+*.session
+*.session-journal
+
+# Konfiguratsiya (shaxsiy ma'lumotlar)
+kerakli.json
+rozilik.json
+start_messages_sent.json
+
+# Log fayllar
+adder.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
